@@ -1,0 +1,23 @@
+[
+  {
+    "role": "Software Developer",
+    "organisation": "SCU Frugal Innovation Hub",
+    "startDate": "Oct, 2024",
+    "endDate": "Present",
+    "experiences": ["Built a bilingual educational app with real-time progress tracking and interactive lessons using Flutter and Firebase",
+    "Developed scalable backend with Node.js and MongoDB; improved engagement by 35% through optimized UI/UX",
+    "Led Agile sprints and achieved 82% test coverage with Jest; boosted team productivity by 27%"],
+    "imageSrc": "history/frugal.png"
+  },
+  {
+    "role": "Software Developer Intern",
+    "organisation": "Virtusa",
+    "startDate": "Sept, 2022",
+    "endDate": "May, 2023",
+    "experiences": [ "Enhanced AI-powered customer support dashboard with real-time chatbot insights and automated query tracking",
+    "Developed responsive UI components using React.js, Next.js, TypeScript, and Tailwind CSS; integrated REST APIs for dynamic data updates",
+    "Optimized frontend performance by 45% with state management and lazy loading; achieved 80% test coverage using Jest and React Testing Library"],
+    "imageSrc": "history/virtusa.png"
+  }
+  
+]

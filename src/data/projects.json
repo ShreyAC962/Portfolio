@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Face Recognition System",
+    "imageSrc": "projects/face-recognition.png",
+    "description": "Engineered a facial recognition system using CNN-based feature encoding and KNN classification, achieving 96.2% accuracy.",
+    "skills": ["OpenCV", "Dlib", "Python", "Scikit-Learn", "NumPy"],
+    "source": "https://github.com/ShreyAC962/FaceRecognition"
+  },
+  {
+    "title": "Movie Recommendation System",
+    "imageSrc": "projects/movie-recommendation.png",
+    "description": "Implemented a content-based movie recommender with Flask backend, deployed using Docker on AWS EC2 for scalability.",
+    "skills": ["Python", "Flask", "JavaScript", "Docker", "MySQL", "AWS EC2", "HTML", "CSS"],
+    "source": "https://github.com/ShreyAC962/MovieRecommendationSystem"
+  },
+  {
+    "title": "Computerized Gardening System",
+    "imageSrc": "projects/gardening-system.png",
+    "description": "Developed a JavaFX-based smart gardening simulation with automated plant care and SQL-backed data tracking.",
+    "skills": ["Java", "JavaFX", "SQL", "OOP", "Maven"],
+    "source": "https://github.com/ShreyAC962/garden_controller"
+  },
+  {
+    "title": "TAAS Rentals",
+    "imageSrc": "projects/taas-rentals.png",
+    "description": "Built a car rental platform with real-time booking, Stripe integration, and responsive UI using React and Node.js.",
+    "skills": ["React.js", "Node.js", "MongoDB", "Stripe"],
+    "source": "https://github.com/ShreyAC962/TAAS-Rentals"
+  },
+  {
+    "title": "Job Search App",
+    "imageSrc": "projects/job-search.png",
+    "description": "Designed a mobile job search app using React Native with Rapid API integration and advanced filtering features.",
+    "skills": ["React Native", "Rapid API", "Expo CLI"],
+    "source": "https://github.com/ShreyAC962/JobSearch"
+  },
+  {
+    "title": "Calories Burnt Prediction",
+    "imageSrc": "projects/calories-prediction.png",
+    "description": "Built a machine learning model using XGBoost to predict calorie expenditure, achieving 97.56% accuracy on the RDZSM-232 dataset.",
+    "skills": ["Python", "Scikit-Learn", "NumPy", "Matplotlib", "Seaborn", "XGBoost"],
+    "source": "https://github.com/ShreyAC962/ML_Projects"
+  }
+]
